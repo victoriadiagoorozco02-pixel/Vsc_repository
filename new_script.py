@@ -1,1 +1,1 @@
-print("Hola terricolas")
+print("Hola Terrícolas")
